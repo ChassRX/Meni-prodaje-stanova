@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1496201696 source:c:\users\haris\desktop\zadatak 3\main.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	<iomanip>
+	<initializer_list>
+	<algorithm>
+	<vector>
+
+1496205074 source:c:\users\haris\onedrive\fakultet\instrukcije\tp\2016-2017\zadaæe\zadaæa 4\zadatak 3\main.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	<iomanip>
+	<initializer_list>
+	<algorithm>
+	<vector>
+
